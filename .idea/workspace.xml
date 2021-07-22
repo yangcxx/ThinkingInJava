@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1cb0612-c84c-473e-a31f-6d279afa3d23" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/cn/yangcx/exec_process/CommaOperator.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/cn/yangcx/MainTest.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="vmOptionsForImporter" value="-Xmx1024m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1dC8AqtQH4SZAF0OBgWFlOkx8Xl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last.edited.regexp" value="" />
+    <property name="last_opened_file_path" value="E:/硬盘备份/IdeaProjects-pc/thinkingbar" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="$PROJECT_DIR$/../../nodejs/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Console" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cn.yangcx.string13" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="cn.yangcx" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.NullRobot">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+    <configuration name="FamilyVsExactType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.yangcx.typeinfo14.FamilyVsExactType" />
+      <module name="ThinkingInJava" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.yangcx.MainTest" />
+      <module name="ThinkingInJava" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NullRobot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.yangcx.typeinfo14.robot.NullRobot" />
+      <module name="ThinkingInJava" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleDynamicProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.yangcx.typeinfo14.proxy.SimpleDynamicProxy" />
+      <module name="ThinkingInJava" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SnowRobot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.yangcx.typeinfo14.robot.SnowRobot" />
+      <module name="ThinkingInJava" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NullRobot" />
+        <item itemvalue="Application.SnowRobot" />
+        <item itemvalue="Application.MainTest" />
+        <item itemvalue="Application.SimpleDynamicProxy" />
+        <item itemvalue="Application.FamilyVsExactType" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1cb0612-c84c-473e-a31f-6d279afa3d23" name="Default Changelist" comment="" />
+      <created>1591917574056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591917574056</updated>
+      <workItem from="1591917576756" duration="2302000" />
+      <workItem from="1592175400922" duration="1118000" />
+      <workItem from="1592177772467" duration="201000" />
+      <workItem from="1592178011855" duration="1045000" />
+      <workItem from="1592230967063" duration="3160000" />
+      <workItem from="1592263212591" duration="1796000" />
+      <workItem from="1592434834117" duration="3286000" />
+      <workItem from="1616456119043" duration="1528000" />
+      <workItem from="1616542203391" duration="678000" />
+      <workItem from="1616542907025" duration="1175000" />
+      <workItem from="1616715449226" duration="679000" />
+      <workItem from="1618106635975" duration="110000" />
+      <workItem from="1618106943941" duration="127000" />
+      <workItem from="1618107254773" duration="207000" />
+      <workItem from="1618107571339" duration="1149000" />
+      <workItem from="1618232274446" duration="62000" />
+      <workItem from="1618232351889" duration="3123000" />
+      <workItem from="1618236352006" duration="1889000" />
+      <workItem from="1618442560317" duration="1881000" />
+      <workItem from="1618704979942" duration="2033000" />
+      <workItem from="1619254641958" duration="47000" />
+      <workItem from="1619254702406" duration="2377000" />
+      <workItem from="1620862163767" duration="448000" />
+      <workItem from="1620862631208" duration="1416000" />
+      <workItem from="1620946781139" duration="3706000" />
+      <workItem from="1621292109888" duration="3768000" />
+      <workItem from="1621382286284" duration="167000" />
+      <workItem from="1621465676708" duration="2756000" />
+      <workItem from="1621551399850" duration="2557000" />
+      <workItem from="1621861882759" duration="4394000" />
+      <workItem from="1622071455107" duration="3084000" />
+      <workItem from="1622156531441" duration="3677000" />
+      <workItem from="1622247648562" duration="236000" />
+      <workItem from="1622247901327" duration="5269000" />
+      <workItem from="1622330718094" duration="5019000" />
+      <workItem from="1622416278392" duration="2087000" />
+      <workItem from="1622502724022" duration="3458000" />
+      <workItem from="1622589970612" duration="2125000" />
+      <workItem from="1622945132049" duration="8810000" />
+      <workItem from="1623019910823" duration="3932000" />
+      <workItem from="1623106195970" duration="4169000" />
+      <workItem from="1623798567325" duration="600000" />
+      <workItem from="1623885037124" duration="2714000" />
+      <workItem from="1623888151165" duration="730000" />
+      <workItem from="1623971899070" duration="2681000" />
+      <workItem from="1624232159683" duration="2229000" />
+      <workItem from="1624315716136" duration="4367000" />
+      <workItem from="1624401525928" duration="5446000" />
+      <workItem from="1624487578306" duration="238000" />
+      <workItem from="1624487833582" duration="4661000" />
+      <workItem from="1624759903440" duration="641000" />
+      <workItem from="1624760681098" duration="141000" />
+      <workItem from="1624760840770" duration="8550000" />
+      <workItem from="1624833244054" duration="5109000" />
+      <workItem from="1624887242271" duration="6237000" />
+      <workItem from="1624918886310" duration="4414000" />
+      <workItem from="1625008294128" duration="3852000" />
+      <workItem from="1625093392667" duration="4770000" />
+      <workItem from="1625180333249" duration="3874000" />
+      <workItem from="1625614344200" duration="1445000" />
+      <workItem from="1625700349729" duration="1765000" />
+      <workItem from="1625786003794" duration="2877000" />
+      <workItem from="1626044536064" duration="3119000" />
+      <workItem from="1626098002670" duration="3262000" />
+      <workItem from="1626132211350" duration="2600000" />
+      <workItem from="1626217920393" duration="742000" />
+      <workItem from="1626218693050" duration="12000" />
+      <workItem from="1626218734383" duration="1923000" />
+      <workItem from="1626305039965" duration="1502000" />
+      <workItem from="1626390016775" duration="3592000" />
+      <workItem from="1626569090896" duration="10162000" />
+      <workItem from="1626648518288" duration="2944000" />
+      <workItem from="1626700668960" duration="6108000" />
+      <workItem from="1626734977364" duration="3627000" />
+      <workItem from="1626823134216" duration="2778000" />
+      <workItem from="1626917386689" duration="8518000" />
+      <workItem from="1626994258324" duration="1629000" />
+    </task>
+    <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

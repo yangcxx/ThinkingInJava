@@ -11,6 +11,8 @@ public class CreatorGeneric {
     public static void main(String[] args) {
         Creator c = new Creator();
         c.f();
+        X element = c.element;
+        System.out.println(element);
     }
 
 }
@@ -36,5 +38,6 @@ abstract class GenericWithCreate<T> {
         this.element = create();
     }
 
+    // todo 模板方法，具体实现交由子类完成
     abstract T create();
 }
